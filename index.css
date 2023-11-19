@@ -1,0 +1,14 @@
+#box{
+    position:center;
+    margin:100px;
+    background-color:rgb(58, 126, 186);
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+#entries{
+    margin:100px;
+    position:center;
+    text-align: center;
+}
